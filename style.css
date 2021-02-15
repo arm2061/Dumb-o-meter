@@ -1,0 +1,46 @@
+body{
+    background: rgb(127, 224, 253);
+}
+
+h1{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 104px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 64px;
+}
+
+th{
+    font-size: 42px;
+    font-family: fantasy;
+    border-bottom:solid black;
+}
+
+td{
+    border-width: 2px;
+    font-size: 18px;
+    font-family:'Andale Mono', monospace;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    border:26px groove rgb(0, 177, 177);
+    background-color: rgb(0, 204, 255);
+}
+
+li{
+    font-size: 24px;
+}
+
+ul{
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+}
